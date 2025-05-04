@@ -42,7 +42,7 @@ zoo_quiz_bot/
 ---
 ### Пример работы бота
 
-![Пример работы бота](example.png)
+![Пример работы бота](zoo_quiz_bot/example.png)
 
 ---
 
